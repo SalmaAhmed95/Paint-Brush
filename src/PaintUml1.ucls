@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="TempShapes.WhileMove" project="P1" file="/P1/src/TempShapes/WhileMove.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="536" x="-66" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="DrawTools.UserInterface" project="P1" file="/P1/src/DrawTools/UserInterface.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="783" width="163" x="1507" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="TempShapes.ChangeColor" project="P1" file="/P1/src/TempShapes/ChangeColor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="202" x="510" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="DrawTools.resources" project="P1" file="/P1/src/DrawTools/resources.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="752" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Shapes.Triangle" project="P1" file="/P1/src/Shapes/Triangle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="477" width="220" x="1106" y="2129"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="Files.XmlWriter" project="P1" file="/P1/src/Files/XmlWriter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="475" x="992" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Shapes.Circle" project="P1" file="/P1/src/Shapes/Circle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="231" x="1366" y="2646"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Shapes.Rectangle" project="P1" file="/P1/src/Shapes/Rectangle.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="287" x="1675" y="2129"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Shapes.shape" project="P1" file="/P1/src/Shapes/shape.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="387" width="212" x="1538" y="1630"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="TempShapes.MoveShape" project="P1" file="/P1/src/TempShapes/MoveShape.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="304" x="1710" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="Files.Filetools" project="P1" file="/P1/src/Files/Filetools.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="143" x="2054" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Shapes.Ellipse" project="P1" file="/P1/src/Shapes/Ellipse.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="269" x="1366" y="2129"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Files.JsonWriter" project="P1" file="/P1/src/Files/JsonWriter.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="485" x="2237" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Files.LoadClasses" project="P1" file="/P1/src/Files/LoadClasses.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="283" x="1344" y="555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="TempShapes.WhileResize" project="P1" file="/P1/src/TempShapes/WhileResize.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="543" x="2762" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="TempShapes.ResizeShape" project="P1" file="/P1/src/TempShapes/ResizeShape.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="270" x="3345" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="DrawTools.PaintGrid" project="P1" file="/P1/src/DrawTools/PaintGrid.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1035" width="222" x="1667" y="555"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="Files.XmlReader" project="P1" file="/P1/src/Files/XmlReader.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="205" x="3655" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="TempShapes.WhileDraw" project="P1" file="/P1/src/TempShapes/WhileDraw.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="504" x="3900" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="DrawTools.GridInterface" project="P1" 
+    file="/P1/src/DrawTools/GridInterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="222" x="1790" y="1630"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="Shapes.Line" project="P1" file="/P1/src/Shapes/Line.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="459" width="259" x="2002" y="2129"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="Files.JsonReader" project="P1" file="/P1/src/Files/JsonReader.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="197" x="4444" y="-268"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="23">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="24" name="grid"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="27" name="loadClass"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="29">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="33" name="data"/>      
+      <multiplicity id="34" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
